@@ -1,3 +1,4 @@
+// THIS IS WHERE CHANGES NEED TO HAPPEN!!!!
 export const projects = [
   {
     title: 'MERN Memories',
@@ -38,9 +39,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { date: "Jan 2022", text: 'Started my engineering journey', },
+  { date: "Apr 2022", text: 'Developed basic skills in Javascript and CSS', },
+  { date: "Aug 2022", text: 'Accepted into the Software Engineering Immersion Program at Thinkful', },
+  { date: "October 2022", text: 'Completed capstone projects in both team and pair programming setting', },
+  { date: "Dec 2022", text: 'Completed the Engineering Program at Thinkful', },
+  { date: "Jan 2023", text: "Started creating my own websites to build upon what I've learned", },
 ];
