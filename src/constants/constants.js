@@ -8,7 +8,6 @@ export const projects = [
     source: 'https://restaurant-capstone-frontend.onrender.com',
     visit: 'https://github.com/OniJones/Restaurant-Cap',
     id: 0,
-    // TIMESTAMP 9:34:03 of the video. You are almost done!
   },
   {
     title: 'WeLoveMovies',
@@ -33,6 +32,7 @@ export const projects = [
     description: "This application is built to let the user encrypt and decrypt messages. The user has to options of using Caesar Shift, Polybius Square and Substitution Ciphers in order to send secrets to friends.",
     image: '/images/project_image_4.png',
     tags: ['JavaScript ES6', 'HTML5', 'Node', 'Bootstrap', 'Mocha', 'Chai'],
+    // Need to change this application into a React App!!!
     source: 'https://github.com/OniJones/Decoder-Ring-Project',
     visit: 'https://github.com/OniJones/Decoder-Ring-Project',
     id: 3,
