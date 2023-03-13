@@ -42,6 +42,7 @@ const Technologies = () =>  (
           <ListParagraph>
             Coming soon!! <br />
             {/* tools like Figma */}
+            {/* Finish Python and fix THIS */}
           </ListParagraph>
         </ListContainer>
       </ListItem>
