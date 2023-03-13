@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiAtlassian, DiFirebase, DiReact, DiBrackets } from 'react-icons/di';
+import { DiAtlassian, DiFirebase, DiReact, DiBrackets, DiPython } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -21,7 +21,7 @@ const Technologies = () =>  (
           <ListTitle>Front-end</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js
+            React.js and Bootstrap
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -36,12 +36,12 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiBrackets size="3rem" />
+        <DiPython size="3rem" />
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Python</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            tools like Figma
+            Coming soon!! <br />
+            {/* tools like Figma */}
           </ListParagraph>
         </ListContainer>
       </ListItem>
