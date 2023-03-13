@@ -15,7 +15,7 @@ const Hero = () => (
       <SectionText>
         an avid learner looking to create websites, video games and software that are easily managed and impress users
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'https://www.linkedin.com/in/reed-bobby-t/'}>Learn More</Button>
     </LeftSection>
   </Section>
 );
